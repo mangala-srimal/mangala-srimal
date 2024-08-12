@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mangala Srimal
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning OOP with JAVA @ SLTC Research University
